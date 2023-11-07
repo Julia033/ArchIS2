@@ -1,0 +1,7 @@
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Client\bin\Debug\Client.exe.config
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Client\bin\Debug\Client.exe
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Client\bin\Debug\Client.pdb
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Client\obj\Debug\Client.exe
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Client\obj\Debug\Client.pdb

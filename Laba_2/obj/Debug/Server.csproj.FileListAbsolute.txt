@@ -1,0 +1,11 @@
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\bin\Debug\Laba_2.exe.config
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\bin\Debug\Laba_2.exe
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\bin\Debug\Laba_2.pdb
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\bin\Debug\NLog.dll
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\bin\Debug\NLog.xml
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\obj\Debug\Laba_2.exe
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\obj\Debug\Laba_2.pdb
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\Laba_2\Laba_2\bin\Debug\NLog.config
